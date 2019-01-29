@@ -1,4 +1,3 @@
-levitation_quiz
 def levitation_quiz
 	loop do
 	  puts "What is the spell that enacts levitation?"
@@ -7,4 +6,4 @@ def levitation_quiz
 	end 
 end
 
-
+levitation_quiz
